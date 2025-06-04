@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Jadhav
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, ReactJs
+- 🌱 I’m currently learning Javascript, Angular
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me 
 - 😄 Pronouns: ...
