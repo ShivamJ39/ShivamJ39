@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, Angular
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me 
+
+- 
+- 📫 How to reach me https//shivamj-portfolio.netlify.app
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
