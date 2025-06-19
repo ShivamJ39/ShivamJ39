@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 
 - 
-- 📫 How to reach me https//shivamj-portfolio.netlify.app
+- 📫 How to reach me https://shivamj-portfolio.netlify.app
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
